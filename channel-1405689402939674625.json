@@ -61,7 +61,7 @@
     "user": {
       "id": "589285007575613442",
       "name": "0xx",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/589285007575613442/9eb3b59e78eb56890af1e4b1f3d238a0.webp?size=128"
+      "avatarUrl": "https://cdn.discordapp.com/avatars/589285007575613442/a_8390a171d40e444a0d597df4fb6e1e13.gif?size=128"
     },
     "channel": "1405689402939674625"
   },
@@ -94,7 +94,18 @@
     "user": {
       "id": "1379816337987080222",
       "name": "es15",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/1379816337987080222/5df9a23ba30377cd9deb36d9b4152b9c.webp?size=128"
+      "avatarUrl": "https://cdn.discordapp.com/avatars/1379816337987080222/81ff37151c7a96c0b04d1fd49c23a3ab.webp?size=128"
+    },
+    "channel": "1405689402939674625"
+  },
+  {
+    "id": "1414275227357024319",
+    "content": "+vouch fast process hohoho",
+    "createdAt": "2025-09-07T15:44:50.165Z",
+    "user": {
+      "id": "1246002586428116995",
+      "name": "lamentfromcoinbase",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/1246002586428116995/e0f7118d24a24def908c5861524cffba.webp?size=128"
     },
     "channel": "1405689402939674625"
   }
