@@ -1,5 +1,16 @@
 [
   {
+    "id": "1469739521334710420",
+    "content": "i did",
+    "createdAt": "2026-02-07T17:00:08.326Z",
+    "user": {
+      "id": "1364189811748900947",
+      "name": "Lenny",
+      "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+    },
+    "channel": "1405689402939674625"
+  },
+  {
     "id": "1469739271505182983",
     "content": "create a ticket",
     "createdAt": "2026-02-07T16:59:08.762Z",
@@ -95,17 +106,6 @@
       "id": "1265854978397044857",
       "name": "1000-7",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1265854978397044857/dce21b40c481b72cf321eb36ca708e6c.webp?size=128"
-    },
-    "channel": "1405689402939674625"
-  },
-  {
-    "id": "1439613871340916836",
-    "content": "@! had a glitch with my key but quickly helped me get a new key amazinggg 10/10",
-    "createdAt": "2025-11-16T13:51:33.660Z",
-    "user": {
-      "id": "1427041840967847969",
-      "name": "Ejm00321",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/1427041840967847969/0e43bb3da3c7dc99fc8c25f6b237139c.webp?size=128"
     },
     "channel": "1405689402939674625"
   }
